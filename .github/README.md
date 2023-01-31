@@ -2,6 +2,9 @@
 
 Switch to another local user `without` spawning a new terminal/console window.
 
+Supports:
+- UPN Format
+
 # Menu
 
 ```
